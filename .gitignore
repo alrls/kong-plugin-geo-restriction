@@ -1,0 +1,5 @@
+# exclude generated packed rocks
+*.rock
+# exclude local configs
+.vscode/
+.pongo/
